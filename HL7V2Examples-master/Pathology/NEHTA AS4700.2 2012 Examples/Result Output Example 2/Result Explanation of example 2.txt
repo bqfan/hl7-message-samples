@@ -1,0 +1,12 @@
+Explanation of example 1
+--------------------------
+This would be a LIS system that treats each of the orders FBC & Urine MC&S as one 
+report although on the same pathology request. You will see the first message
+only contains the FBE and the second message contains both the FBE and the Urine. 
+The FBE did not change it is just reissued when the Urine is finalised.
+Also note that the display segments in the second message are the same under each
+OBR, both contain the FBE and the Urine report all in one narrative.
+This is the kind of system that would only build one CDA document for the request. 
+   
+Msg 1: The 'FBE: Full Blood Count' report finalised at 2015/04/10 at 11:15
+Msg 2: The 'FBE: Full Blood Count' and the 'MCS urine: URINE MC&S' where the Urine was  finalised the next day at 2015/04/11 at 10:20

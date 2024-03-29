@@ -1,0 +1,7 @@
+Order explanation of example 2
+------------------------------------
+These order message are an example where the two orders come in separately.
+The two orders are grouped together by the common 'Group order number' found in ORC-4
+
+Msg 1 is the FBC order
+Msg 2 is the Urine order  

@@ -1,0 +1,33 @@
+MSH|^~\&|EQUATORDXTRAY^EQUATORDXTRAY^L|Acme Pathology^1001^AUSNATA|||20050420221113+1000||ORU^R01^ORU_R01|20050420.736715|P|2.4^AUS&&ISO3166_1^HL7AU.ONO.1&&HL7AU|||AL||AUS
+PID|1|...
+PV1|1|O||||||0191322W^ANDERSON^THOMAS^^^DR^^^AUSHICPR^L^^^UPIN|0191322W^ANDERSON^THOMAS^^^DR^^^AUSHICPR^L^^^UPIN
+ORC|RE||05-6690882-URC-0^Acme Pathology^1001^AUSNATA||CM|||||||0191322W^ANDERSON^THOMAS^^^DR^^^AUSHICPR^L^^^UPIN
+OBR|1||05-6690882-URC-0^Acme Pathology^1001^AUSNATA|URC^URINE MICRO^1001|||200503081300+1000|||||||200503081928+1000||0191322W^ANDERSON^THOMAS^^^DR^^^AUSHICPR^L^^^UPIN||||DR=MME,LN=05-6690882,RC=Y||200504181642+1000||MB|F||^^^200503080000+1000|0191322W^ANDERSON^THOMAS^^^DR^^^AUSHICPR^L^^^UPIN||||Reporting Pathologist
+OBX|1|ST|19159-3^Collection Method^LN||Mid stream urine||||||F|||200503082316+1000
+OBX|2|ST|25428-4^Glucose^LN||Negative||||||F|||200503082350+1000
+OBX|3|ST|2514-8^Ketones^LN||Negative||||||F|||200503082350+1000
+OBX|4|ST|20454-5^Protein^LN||Negative||||||F|||200503082350+1000
+OBX|5|NM|30405-5^Leucocytes^LN||30|10*6/L^10*6/L^UCUM|<10|+|||F|||200503090015+1000
+OBX|6|NM|30391-7^Erythrocytes^LN||40|10*6/L^10*6/L^UCUM|<10|+|||F|||200503090015+1000
+OBX|7|SN|30383-4^Epithelial cells^LN||<^10|10*6/L^10*6/L^UCUM|||||F|||200503090015+1000
+OBX|8|ST|8269-3^^LN|1|Organism 1||||||F
+OBX|9|CE|630-4^Bacteria Identified^LN|1|112283007^Escherichia coli^SCT|||A|||F
+OBX|10|SN|19090-0^Colony Count^LN|1|>^10|||A|||F
+OBX|11|ST|18864-9^Amp/Amoxycillin^LN|1|S|||S|||F
+OBX|12|ST|18862-3^Amoxycillin+Clavulanic acid^LN|1|S|||S|||F
+OBX|13|ST|18897-9^Cephalexin^LN|1|S|||S|||F
+OBX|14|ST|18955-5^Nitrofurantoin^LN|1|S|||S|||F
+OBX|15|ST|18956-3^Norfloxacin^LN|1|S|||S|||F
+OBX|16|ST|18997-7^Trimethoprim^LN|1|S|||S|||F
+OBX|17|ST|18928-2^Gentamicin^LN|1|S|||S|||F
+OBX|18|ST|8270-1^^LN|2|Organism 2||||||F
+OBX|19|CE|630-4^Bacteria Identified^LN|2|131269001^Klebsiella^SCT|||A|||F
+OBX|20|SN|19090-0^Colony Count^LN|2|>^100|||A|||F
+OBX|21|ST|18864-9^Amp/Amoxycillin^LN|2|R|||R|||F
+OBX|22|ST|18862-3^Amoxycillin+Clavulanic acid^LN|2|R|||R|||F
+OBX|23|ST|18897-9^Cephalexin^LN|2|R|||R|||F
+OBX|24|ST|18955-5^Nitrofurantoin^LN|2|R|||R|||F
+OBX|25|ST|18956-3^Norfloxacin^LN|2|S|||S|||F
+OBX|26|ST|18997-7^Trimethoprim^LN|2|R|||R|||F
+OBX|27|ST|18928-2^Gentamicin^LN|2|S|||S|||F
+OBX|28|FT|8251-1^Generated comment^LN||\.br\May be suggestive of UTI in the presence of symptoms.\.br\||||||F

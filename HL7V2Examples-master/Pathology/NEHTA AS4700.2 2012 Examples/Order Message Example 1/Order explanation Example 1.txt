@@ -1,0 +1,6 @@
+Order explanation of example 1
+------------------------------------
+In this example both order 'FBE' and 'Urine' arrive in the same message.
+
+Msg 1 is the FBC & Urine order
+  

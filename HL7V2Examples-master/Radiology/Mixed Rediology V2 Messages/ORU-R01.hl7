@@ -1,0 +1,6 @@
+MSH|^~\&|APOLLO_RIS|Sonic|HL7-RIS-IN|INTELERAD|20140827101412||ORU^R01|20140827-2057.5928|P|2.3|5928||AL|AU|||||
+PID||QXR1259856|QXR1259856||PatientSName^PatientFName^PatientMName^MRS||19500227|F|||5 SOMETHING STREET^^MOUNT LOUISA^QLD^4814|AU|^^^^^^4774 6458||||||||||||||||
+PV1|1|||||||2996426J^FAYEZ^SAYED (ABU)^^^DR|2996426J^FAYEZ^SAYED (ABU)^^^DR|||||||||O|DOM9064597||||||||||||||||||||IPACS^Domain|||||20140827082500||||||||
+ORC|SC|9042417Q1|9042417Q1||ZZ|||||||2996426J^FAYEZ^SAYED (ABU)^^^DR|||||DOM|||||||
+OBR|1|9042417Q1|9042417Q1|QXRDOMCRWL^Xray Chest ||20140827000000|20140827082500|20140827083441||||||20140827082500||2996426J^FAYEZ^SAYED (ABU)^^^DR||9042417Q1|1|1||20140827101412||CR|F||^^^20140827101412^^|""||||KXP1^Prematunga^Kurundeniya^^^20140827083441||||20140827101412||||||||58503|
+OBX|1|TX|||  ~kxp1:dtw~~~~~CHEST X-RAY~~HISTORY: Recent onset of Raynaud's in hands. ? Cause.~~~FINDINGS: The heart size is normal.  The pulmonary vasculature is normal.  The~lungs are clear. No acute or chronic parenchymal pathology is present.  No~mediastinal or hilar lymphadenopathy is noted.  The pleural spaces are normal.~The bones and soft tissues are normal. ~~There is mild thoracic kyphosis.~~Thank you for referring this patient,~~~~Dr Kurundeniya Prematunga~||||||F||||||
